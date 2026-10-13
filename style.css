@@ -25,4 +25,20 @@
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
+    border: solid;
+}
+#OSname-version{
+    color: #d30909;
+    font-family: 'Merriweather', serif;
+    margin-left: 10px;
+}
+#date{
+    color: #d30909;
+    font-family: 'Merriweather', serif;
+    margin-right: 10px;
+}
+#time{
+    color: #d30909;
+    font-family: 'Merriweather', serif;
+    margin-right: 10px;
 }
